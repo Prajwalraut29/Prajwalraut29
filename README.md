@@ -12,9 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prajwal29raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal29raut" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/praj29raut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="praj29raut" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prajwalraut29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prajwalraut29" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prajwal_raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajwal_raut" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/monotonic_stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="monotonic_stack" height="30" width="40" /></a>
 </p>
