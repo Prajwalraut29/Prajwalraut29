@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Prajwal Raut
-- 🚀 I'm currently a Software Engineer (Full stack) at [Taxbuddy](https://www.taxbuddy.com/)
+- 🚀 I'm currently a Software Engineer (Full stack) at Product Based Startup
 - 🖥️ I’ve previously worked as fullstack Intern at [college campus ](https://www.linkedin.com/company/coursecompass/) and as SDE Intern (Frontend) at [ezage](https://www.ezage.ai/)
 - 👨‍💻 I've worked across multiple tech stacks and domains including Frontend, Backend, Mobile.
 - 💞️ I’m looking to collaborate on open source projects
