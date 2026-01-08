@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Prajwal Raut
 - 🚀 I'm currently a Software Engineer (Full stack) at Product Based Startup
-- 🖥️ I’ve previously worked as fullstack Intern at [college campus ](https://www.linkedin.com/company/coursecompass/) and as SDE Intern (Frontend) at [ezage](https://www.ezage.ai/)
+- 🖥️ I’ve previously worked as fullstack  at Taxbuddy and as SDE Intern (Frontend) at [ezage](https://www.ezage.ai/)
 - 👨‍💻 I've worked across multiple tech stacks and domains including Frontend, Backend, Mobile.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 If you have any interesting project idea and need help building it, shoot me an email at rautprajwal36@gmail.com
